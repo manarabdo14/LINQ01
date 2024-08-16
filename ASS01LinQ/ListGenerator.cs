@@ -1,6 +1,6 @@
-﻿using LINQ01.Data;
+﻿using ASS01LinQ.Data;
 using System.Xml.Linq;
- namespace LINQ01
+ namespace ASS01LinQ
 {
 
 	public static class ListGenerator

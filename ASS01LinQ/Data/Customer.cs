@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LINQ01.Data
+namespace ASS01LinQ.Data
 {
-    public class Customer
+  public  class Customer
     {
         public string CustomerID { get; set; }
         public string CustomerName { get; set; }
