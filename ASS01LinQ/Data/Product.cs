@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LINQ01.Data
+namespace ASS01LinQ.Data
 {
     public class Product /*: IComparable<Product>*/
     {
